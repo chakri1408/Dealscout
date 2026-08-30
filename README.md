@@ -31,10 +31,6 @@ One click on **Run Scan** and the whole system runs autonomously: the planner LL
 
 https://github.com/user-attachments/assets/b2915119-7993-4e13-bf3a-ef87589c51eb
 
-<video src="docs/media/dealscout-demo.mp4" controls muted playsinline width="720">
-  Your browser doesn't support inline video — <a href="docs/media/dealscout-demo.mp4">watch the DealScout demo</a>.
-</video>
-
 ### Live dashboard mid-scan
 
 The currently-working agent pulses in its own color, driven purely by parsing the real-time log stream — no dedicated backend events needed.
