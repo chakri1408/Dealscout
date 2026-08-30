@@ -29,6 +29,8 @@ It combines a FastAPI backend, a WebSocket log bus that streams every agent's ac
 
 One click on **Run Scan** and the whole system runs autonomously: the planner LLM decides its own tool sequence, ~30 deals are scraped and filtered to 5, each is priced by all three ensemble models (watch the pyramid light up agent-by-agent in its own color as the logs stream beside it), and the best bargain pops up as a Claude-crafted alert.
 
+https://github.com/user-attachments/assets/b2915119-7993-4e13-bf3a-ef87589c51eb
+
 <video src="docs/media/dealscout-demo.mp4" controls muted playsinline width="720">
   Your browser doesn't support inline video — <a href="docs/media/dealscout-demo.mp4">watch the DealScout demo</a>.
 </video>
