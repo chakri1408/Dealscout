@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Data artifacts (vectorstore, DNN weights, SQLite db — see README "Getting started")
+data/
+
+# Secrets
+.env
+
+# SQLite (safety net in case a db file ever lands outside data/)
+*.db
+*.sqlite3
+
+# OS
+.DS_Store
+
+#local files
+prompt.md
